@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application testing</string><string name="action_settings">Configuration</string><string name="init1">If you were a dog your age it would be:</string><string name="init2">Calculate canine age</string><string name="init3">Age</string><string name="init4">Enter your age: </string><string name="years"> Years</string><string name="stringDebug">You must enter a whole number </string>
+
+
+</resources>

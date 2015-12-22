@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prueba de aplicaciones</string>
+    <string name="action_settings">Configuración</string>
+    <string name="init1">Si fueras perro tu edad seria:</string>
+    <string name="init2">Calcular Edad canina</string>
+    <string name="init3">Edad</string>
+    <string name="init4">Escribe tu Edad: </string>
+    <string name="years"> Años</string>
+    <string name="stringDebug">Debes ingresar un numero entero </string>
+</resources>
